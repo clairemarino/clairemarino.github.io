@@ -1,5 +1,5 @@
 # clairemarino.github.io
-![Image of Claire Marino](images/headshot.png "REPLACE_WITH_SHORT_DESCRIPTION")
+![Image of Claire Marino](images/headshot.jpg "A recent headshot of Claire Marino")
 
 ## About Me
 I am a PHD student in the UConn EEB department interested in biodiversity and population ecology.
