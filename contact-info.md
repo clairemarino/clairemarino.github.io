@@ -6,7 +6,6 @@ layout: default
 Feel free to contact me at <claire.marino@uconn.edu>.
 
 Postal address: 
-
 Claire Marino
 Department of Ecology and Evolutionary Biology 
 University of Connecticut 
